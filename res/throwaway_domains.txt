@@ -29,6 +29,7 @@
 1mail.ml
 1pad.de
 1zhuan.com
+20email.eu
 20mail.it
 20minutemail.com
 21cn.com
@@ -79,6 +80,7 @@ a.mailcker.com
 a.vztc.com
 a45.in
 abyssmail.com
+add3000.pp.ua
 afrobacon.com
 ag.us.to
 agedmail.com
@@ -111,6 +113,7 @@ armyspy.com
 artman-conception.com
 asdasd.nl
 asdasd.ru
+ass.pp.ua
 atvclub.msk.ru
 auti.st
 avpa.nl
@@ -161,6 +164,7 @@ cam4you.cc
 card.zp.ua
 casualdx.com
 cc.liamria
+ce.mintemail.com
 cek.pm
 cellurl.com
 centermail.com
@@ -173,11 +177,9 @@ choicemail1.com
 chong-mail.com
 chong-mail.net
 chong-mail.org
+clipmail.eu
 clixser.com
 clrmail.com
-cmail.com
-cmail.net
-cmail.org
 cock.li
 coieo.com
 coldemail.info
@@ -239,10 +241,13 @@ disposeamail.com
 disposemail.com
 dispostable.com
 divermail.com
+divismail.ru
+divismail.ru
 dm.w3internet.co.uk
 dodgeit.com
 dodgit.com
 dodgit.org
+dodsi.com
 doiea.com
 domozmail.com
 donemail.ru
@@ -319,6 +324,7 @@ emkei.ga
 emkei.gq
 emkei.ml
 emkei.tk
+eml.pp.ua
 emz.net
 enterto.com
 ephemail.net
@@ -329,6 +335,8 @@ etranquil.org
 evopo.com
 explodemail.com
 express.net.ua
+extremail.ru
+extremail.ru
 eyepaste.com
 facebook-email.cf
 facebook-email.ga
@@ -336,6 +344,7 @@ facebook-email.ml
 facebookmail.gq
 facebookmail.ml
 fake-box.com
+fake-email.pp.ua
 fake-mail.cf
 fake-mail.ga
 fake-mail.ml
@@ -405,6 +414,7 @@ get-mail.cf
 get-mail.ga
 get-mail.ml
 get-mail.tk
+get.pp.ua
 get1mail.com
 get2mail.fr
 getairmail.cf
@@ -467,6 +477,7 @@ hartbot.de
 hat-geld.de
 hatespam.org
 herp.in
+hg8n415.com
 hidemail.de
 hidzz.com
 hmamail.com
@@ -484,9 +495,6 @@ hotpop.com
 hulapla.de
 humaility.com
 hush.ai
-hush.com
-hushmail.com
-hushmail.me
 ieatspam.eu
 ieatspam.info
 ieh-mail.de
@@ -515,7 +523,9 @@ infocom.zp.ua
 insorg-mail.info
 instant-mail.de
 iozak.com
+ip4.pp.ua
 ip6.li
+ip6.pp.ua
 ipoo.org
 irish2me.com
 is.af
@@ -524,6 +534,7 @@ jetable.com
 jetable.fr.nf
 jetable.net
 jetable.org
+jetable.pp.ua
 jnxjn.com
 jourrapide.com
 jsrsolutions.com
@@ -537,6 +548,8 @@ keepmymail.com
 killmail.com
 killmail.net
 kir.ch.tc
+kismail.ru
+kismail.ru
 klassmaster.com
 klassmaster.net
 klzlk.com
@@ -547,10 +560,12 @@ kulturbetrieb.info
 kurzepost.de
 l33r.eu
 lackmail.net
+lackmail.ru
 landmail.co
 lastmail.co
 lavabit.com
 lawlita.com
+leeching.net
 letthemeatspam.com
 lhsdv.com
 lifebyfood.com
@@ -563,6 +578,7 @@ login-email.cf
 login-email.ga
 login-email.ml
 login-email.tk
+loh.pp.ua
 lol.ovpn.to
 lolfreak.net
 lookugly.com
@@ -585,7 +601,6 @@ mail-filter.com
 mail-temporaire.fr
 mail.by
 mail.mezimages.net
-mail.ru
 mail.zp.ua
 mail114.net
 mail1a.de
@@ -666,6 +681,7 @@ mailtothis.com
 mailtrash.net
 mailtv.net
 mailtv.tv
+mailzi.ru
 mailzilla.com
 mailzilla.org
 makemetheking.com
@@ -693,12 +709,15 @@ moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
 monumentmail.com
+mox.pp.ua
 msa.minsmail.com
 msb.minsmail.com
+mswork.ru
 mt2009.com
 mt2014.com
 mt2015.com
 muchomail.com
+mvrht.com
 mx0.wwwnew.eu
 my10minutemail.com
 mycard.net.ua
@@ -768,6 +787,7 @@ obobbo.com
 odaymail.com
 odnorazovoe.ru
 ohaaa.de
+olypmall.ru
 omail.pro
 oneoffemail.com
 oneoffmail.com
@@ -792,12 +812,14 @@ pimpedupmyspace.com
 pjjkp.com
 plexolan.de
 poczta.onet.pl
+poh.pp.ua
 politikerclub.de
 pooae.com
 poofy.org
 pookmail.com
 postonline.me
 powered.name
+pp.ua
 privacy.net
 privatdemail.net
 privy-mail.com
@@ -814,7 +836,6 @@ qasti.com
 qisdo.com
 qisoa.com
 qoika.com
-qq.com
 quickinbox.com
 quickmail.nl
 rcpt.at
@@ -976,6 +997,7 @@ stop-my-spam.cf
 stop-my-spam.com
 stop-my-spam.ga
 stop-my-spam.ml
+stop-my-spam.pp.ua
 stop-my-spam.tk
 stuffmail.de
 suioe.com
@@ -1046,6 +1068,8 @@ tmailinator.com
 toiea.com
 tokem.co
 toomail.biz
+top1mail.ru
+top1post.ru
 topranklist.de
 tormail.org
 tradermail.info
@@ -1078,6 +1102,7 @@ trashmailer.com
 trashymail.com
 trashymail.net
 trbvm.com
+trbvn.com
 trialmail.de
 trickmail.net
 trillianpro.com
@@ -1104,6 +1129,7 @@ viewcastmedia.org
 vipmail.name
 vipmail.pw
 viralplays.com
+vkcode.ru
 vomoto.com
 vpn.st
 vsimcard.com
@@ -1116,6 +1142,7 @@ wants.dicksinmyan.us
 wasteland.rfc822.org
 watch-harry-potter.com
 watchfull.net
+web-mail.pp.ua
 webemail.me
 webm4il.info
 webuser.in
@@ -1181,6 +1208,7 @@ yopmail.com
 yopmail.fr
 yopmail.gq
 yopmail.net
+yopmail.pp.ua
 you-spam.com
 youmail.ga
 youmailr.com
@@ -1190,6 +1218,7 @@ yuurok.com
 yxzx.net
 z1p.biz
 za.com
+zasod.com
 zebins.com
 zebins.eu
 zehnminuten.de
